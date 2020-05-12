@@ -1,3 +1,5 @@
+Experimental version forked - added functions for SSO login with OpenID
+
 See the [docassemble web site] for a description of **docassemble**
 and installation instructions.
 
