@@ -1,4 +1,13 @@
-Experimental version forked - added functions for SSO login with OpenID
+Experimental version forked - added functions for SSO login with OpenID for pirati.cz
+
+after install update in configuration
+
+oauth:
+  ssooidc:
+    enable: True
+    id: docassemble-test
+    secret: b62cbc0b-15ee-46fa-9db6-f5c3a0bed32a
+
 
 See the [docassemble web site] for a description of **docassemble**
 and installation instructions.
