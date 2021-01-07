@@ -93,7 +93,7 @@ install_requires = [
     "joblib==0.14.0",
     "kombu==4.6.5",
     "links-from-link-header==0.1.0",
-    "lxml==4.4.1",
+    "lxml==4.6.2",
     "Mako==1.1.0",
     "Markdown==3.1.1",
     "MarkupSafe==1.1.1",
