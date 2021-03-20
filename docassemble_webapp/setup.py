@@ -88,7 +88,7 @@ install_requires = [
     "jaraco.functools==2.0",
     "jdcal==1.4.1",
     "jellyfish==0.5.6",
-    "Jinja2==2.10.3",
+    "Jinja2==2.11.3",
     "jmespath==0.9.4",
     "joblib==0.14.0",
     "kombu==4.6.5",
