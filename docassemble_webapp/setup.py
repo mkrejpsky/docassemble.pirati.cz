@@ -8,7 +8,7 @@ def read(fname):
 openpyxl_version = "2.5.14" if sys.version.startswith('3.5') else "3.0.0"
 twine_version = "1.15.0" if sys.version.startswith('3.5') else "2.0.0"
 install_requires = [
-    'docassemble==1.1.25',
+    'docassemble==1.2.65',
     'docassemble.base==1.1.25',
     'docassemble.demo==1.1.25',
     "3to2==1.1.1",
