@@ -57,7 +57,7 @@ setup(name='docassemble.demo',
       url='https://docassemble.org',
       packages=find_packages(),
       namespace_packages = ['docassemble'],
-      install_requires = ['docassemble==1.1.25', 'docassemble.base==1.1.25'],
+      install_requires = ['docassemble==1.2.65', 'docassemble.base==1.1.25'],
       zip_safe = False,
       package_data=find_package_data(where=os.path.join('docassemble', 'demo', ''), package='docassemble.demo'),
   )
