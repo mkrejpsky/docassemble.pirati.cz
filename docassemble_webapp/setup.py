@@ -52,7 +52,7 @@ install_requires = [
     "feedparser==5.2.1",
     "Flask==1.1.1",
     "Flask-Babel==1.0.0",
-    "Flask-Cors==3.0.8",
+    "Flask-Cors==3.0.9",
     "docassemblekvsession==0.1",
     "Flask-Login==0.4.1",
     "Flask-Mail==0.9.1",
