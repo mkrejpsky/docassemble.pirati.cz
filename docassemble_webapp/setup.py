@@ -47,7 +47,7 @@ install_requires = [
     "docxcompose==1.0.2",
     "docxtpl==0.6.3",
     "et-xmlfile==1.0.1",
-    "eventlet==0.25.1",
+    "eventlet==0.31.0",
     "fdfgen==0.16.1",
     "feedparser==5.2.1",
     "Flask==1.1.1",
