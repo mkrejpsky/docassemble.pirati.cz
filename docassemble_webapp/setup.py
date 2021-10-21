@@ -22,7 +22,7 @@ install_requires = [
     "azure-common==1.1.23",
     "azure-nspkg==3.0.2",
     "azure-storage==0.36.0",
-    "Babel==2.7.0",
+    "Babel==2.9.1",
     "backports.csv==1.0.7",
     "bcrypt==3.1.7",
     "beautifulsoup4==4.8.1",
