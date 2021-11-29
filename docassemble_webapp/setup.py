@@ -149,7 +149,7 @@ install_requires = [
     "python-docx==0.8.7",
     "python-editor==1.0.4",
     "python-engineio==3.10.0",
-    "python-ldap==3.2.0",
+    "python-ldap==3.4.0",
     "python-socketio==4.3.1",
     "pytz==2019.3",
     "pyu2f==0.1.4",
