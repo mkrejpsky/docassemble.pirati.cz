@@ -94,7 +94,7 @@ install_requires = [
     "kombu==4.6.5",
     "links-from-link-header==0.1.0",
     "lxml==4.4.1",
-    "Mako==1.1.0",
+    "Mako==1.2.2",
     "Markdown==3.1.1",
     "MarkupSafe==1.1.1",
     "mdx-smartypants==1.5.1",
