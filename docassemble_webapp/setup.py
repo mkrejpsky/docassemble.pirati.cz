@@ -121,7 +121,7 @@ install_requires = [
     "pluggy==0.13.0",
     "ply==3.11",
     "portend==2.5",
-    "protobuf==3.10.0",
+    "protobuf==3.18.3",
     "psutil==5.6.6",
     "psycopg2-binary==2.8.4",
     "py==1.8.0",
