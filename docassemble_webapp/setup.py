@@ -90,7 +90,7 @@ install_requires = [
     "jellyfish==0.5.6",
     "Jinja2==2.10.3",
     "jmespath==0.9.4",
-    "joblib==0.14.0",
+    "joblib==1.2.0",
     "kombu==4.6.5",
     "links-from-link-header==0.1.0",
     "lxml==4.4.1",
